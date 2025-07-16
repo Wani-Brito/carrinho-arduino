@@ -26,7 +26,9 @@ Este projeto consiste em um carrinho controlado via Bluetooth, utilizando Arduin
 ---
 ## Foto
 
-<img src="imagens/carrinho.jpg" alt="Foto do carrinho" width="300"/>
+<div align="center">
+  <img src="imagens/carrinho.jpg" alt="Foto do carrinho" width="300"/>
+</div>
 
 
 ---
