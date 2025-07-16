@@ -24,7 +24,11 @@ Este projeto consiste em um carrinho controlado via Bluetooth, utilizando Arduin
 - Programação em C++
 
 ---
+## Foto
 
+![Foto do carrinho](imagens/carrinho.jpg)
+
+---
 ## Como usar
 
 1. Clone o repositório:
